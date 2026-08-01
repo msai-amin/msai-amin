@@ -12,8 +12,7 @@ mostly by measuring things people usually assume rather than check.
 - 🛠️ [SynTheo](https://github.com/msai-amin/SynTheo) — local verified-reasoning
   engine: prover/skeptic pairs for math and philosophical argument.
 
-**Background:** PhD Philosophy (dissertation on Aristotle's account of time),
-MSc AI, BSc Electrical Engineering. Currently at VStyle, working on
-human-AI alignment.
+**Background:** PhD Philosophy (dissertation on Aristotle's account of time), MSc AI, BA Philosophy, BSc Electrical Engineering. 
+Research focus: human-AI alignment. Also builds applied AI platform work at VStyle.
 
 📫 msai.aminamou@gmail.com · [amouaihub.com](https://amouaihub.com)
