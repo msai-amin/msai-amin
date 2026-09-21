@@ -1,4 +1,4 @@
-### Amin — Philosophy PhD, AI/ML MSc, EE BSc background
+### Amin — Philosophy PhD, AI/ML MSc, EE BSc
 
 I work on whether AI systems have the properties they're claimed to have —
 mostly by measuring things people usually assume rather than check.
@@ -12,7 +12,7 @@ mostly by measuring things people usually assume rather than check.
 - 🛠️ [SynTheo](https://github.com/msai-amin/SynTheo) — local verified-reasoning
   engine: prover/skeptic pairs for math and philosophical argument.
 
-**Background:** PhD Philosophy (dissertation on Aristotle's account of time), MSc AI, BA Philosophy, BSc Electrical Engineering. 
+**Background:** PhD Philosophy,MSc AI, Sc Electrical and Electronic Engineering. 
 Research focus: human-AI alignment. Also builds applied AI platform work at VStyle.
 
 📫 msai.aminamou@gmail.com · [amouaihub.com](https://amouaihub.com)
