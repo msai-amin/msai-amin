@@ -1,4 +1,4 @@
-### Amin — Philosophy PhD, AI/ML MSc, EE background
+### Amin — Philosophy PhD, AI/ML MSc, EE BSc background
 
 I work on whether AI systems have the properties they're claimed to have —
 mostly by measuring things people usually assume rather than check.
