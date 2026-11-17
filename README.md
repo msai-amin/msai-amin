@@ -12,7 +12,11 @@ mostly by measuring things people usually assume rather than check.
 - 🛠️ [SynTheo](https://github.com/msai-amin/SynTheo) — local verified-reasoning
   engine: prover/skeptic pairs for math and philosophical argument.
 
+### ⚙️ Engineering & Platform Design
+* **Current Role:** AI Lead Engineer at **Omniphi**—architecting production-grade AI platforms, scalable infrastructure, and distributed inference workflows.
+* **Applied Work:** Building resilient, cloud-native intelligence platforms and developer ecosystems (including applied work at VStyle).
+* **Tech Stack & Tooling:** Python, C++, CUDA, PyTorch, vLLM, Docker, Kubernetes, PostgreSQL/pgvector, and AWS/GCP infrastructure.
+
 **Background:** PhD Philosophy,MSc AI, Sc Electrical and Electronic Engineering. 
 Research focus: human-AI alignment. Also builds applied AI platform work at VStyle.
-
 📫 msai.aminamou@gmail.com · [amouaihub.com](https://amouaihub.com)
